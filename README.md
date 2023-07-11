@@ -8,6 +8,7 @@ To download avrdude 5.11.1 https://download-mirror.savannah.gnu.org/releases/avr
 Add the text to your avrdude.conf and avrdude.conf.in
 
 ### To install on Linux:
+- Edit avrdude.conf
 - cd avrdude-5.11.1
 - ./configure
 - make
